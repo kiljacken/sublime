@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "build.bat",
+	"working_dir": "$project",
+	"file_regex": "(.+)\\((\\d+):(\\d+)\\) (.+)",
+}
